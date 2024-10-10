@@ -1,6 +1,6 @@
 # Simple DevOps Project
 
-[![Image](Devops.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")]
+[![Image](https://github.com/Awadheshks/Simple-DevOps-Project/blob/main/DevOps.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")]
 
 This Repository is a collection of Implementation documents. 
 
